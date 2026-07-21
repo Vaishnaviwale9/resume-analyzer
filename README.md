@@ -12,7 +12,8 @@ tips, a job-match score, strengths/weaknesses, and a downloadable AI report.
 ![Tech](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)
 ![Tech](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![AI Resume Analyzer](Screenshot%202026-07-21%20165739.png)
+![AI Resume Analyzer Login](Screenshot%202026-07-21%20165739.png)
+![AI Resume Analyzer](Screenshot%202026-07-21%20165903.png)
 
 ---
 
